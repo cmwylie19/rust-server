@@ -2,12 +2,12 @@
 [package]
 name = "multipart-example"
 version = "0.3.0"
-authors = ["Bevan Hunt <bevan@bevanhunt.com>"]
+authors = ["Casey Wylie <casewylie@gmail.com>"]
 edition = "2018"
 license = "MIT"
-description = "Simple file uploader in Actix Web with Async/Await"
+description = "Upload a file from rest api"
 keywords = ["actix", "actix-web", "multipart"]
-repository = "https://github.com/actix/examples"
+repository = "https://github.com/cmwylie19/rust-server"
 readme = "README.md"
 
 [dependencies]
